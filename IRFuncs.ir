@@ -1,0 +1,9 @@
+
+# Functions
+#---------------
+
+addValue:
+T2 = result
+T2 = {NUM} + {NUM}
+return T2
+

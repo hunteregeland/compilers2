@@ -1,0 +1,23 @@
+# IR Code
+#---------------
+
+main:
+
+T0 = x
+T1 = y
+T0 = 20
+
+goto addValue
+
+T3 = result
+output 'result:'
+output T3
+
+# Functions
+#---------------
+
+addValue:
+T2 = result
+T2 = {NUM} + {NUM}
+return T2
+
