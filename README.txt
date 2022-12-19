@@ -3,6 +3,13 @@ CST-405
 Complete Compiler
 README
 
+Loom Videos:
+
+Hunter:
+        pt. 1: https://www.loom.com/share/d3f84c3e67e34d68892811bc5eff118d
+        pt. 2: https://www.loom.com/share/0745e0ed285946b1b4dbc18868b6318b
+Evan:
+
 
 Language Specifications:
 
@@ -11,7 +18,7 @@ Language Specifications:
 2. We allow order of operations, exponents, +, -, x, and / in variable declarations but any math in while and if/else statements need to be + and - only.
 3. Variable initializations need to be done before they are declared as a variable. For example: 
                         
-int x = 5;
+                int x = 5;
 
 
    will not work. This needs to be written as two separate expressions as such:
