@@ -9,6 +9,8 @@ Hunter:
         pt. 1: https://www.loom.com/share/d3f84c3e67e34d68892811bc5eff118d
         pt. 2: https://www.loom.com/share/0745e0ed285946b1b4dbc18868b6318b
 Evan:
+        pt. 1: https://www.loom.com/share/73d4f7b2ca364fa08b1655d5fe91999c
+        pt. 2: https://www.loom.com/share/86d5fa59cb8944d4b37ba58c774d8b57
 
 
 Language Specifications:
