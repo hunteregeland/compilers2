@@ -1,6 +1,8 @@
 int x;
+int z;
 char y;
 x = 20;
+z = 1 + x / 2;
 
 int addValue(int num1, int num2){
      int result;
@@ -9,11 +11,10 @@ int addValue(int num1, int num2){
 }
 
 int result;
-if (x > 0){
+while (x > 0){
     result = addValue(x, -5);
     write "result:";
     write result;
-}
-else{
-    write "no change";
+    write ~nl;
+    x = x - 5;
 }
