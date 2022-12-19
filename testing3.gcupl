@@ -16,6 +16,3 @@ while (x > 0){
     write ~nl;
     x = x - 5;
 }
-
-write ~nl;
-write "end";
